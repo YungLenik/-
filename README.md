@@ -1,8 +1,8 @@
 <h1 align="center">Задача по информатике Матэс Л.А.</h1>
-<center><img
+<p align="center"><img
     src="images/img1.png"
     alt="Informatic_task"
-    /></center>
+    /></p>
 
 <table align="center">
 	<tbody>
