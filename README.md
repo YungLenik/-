@@ -1,12 +1,14 @@
 <h1 align="center">Задача по информатике Матэс Л.А.</h1>
-
-![Informatic_task](images/img1.png)
+<img
+    src="images/img1.png"
+    alt="Informatic_task"
+    align="center"/>
 
 <table align="center">
 	<tbody>
 		<tr>
-			<td colspan="3">Задача № 1</td>
-			<td colspan="5">Задача № 1</td>
+			<td colspan="3" align="center">Задача № 1</td>
+			<td colspan="5" align="center">Задача № 2</td>
 		</tr>
 		<tr>
 			<td>Xн</td>
