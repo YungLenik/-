@@ -2,7 +2,7 @@
 
 ![Informatic_task](images/img1.png)
 
-<table>
+<table align="center">
 	<tbody>
 		<tr>
 			<td colspan="3">Задача № 1</td>
