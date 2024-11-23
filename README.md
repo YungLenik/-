@@ -32,3 +32,14 @@
 		</tr>
 	</tbody>
 </table>
+
+## Установка библиотеки для работы с массивами
+```bash
+pip install numpy
+```
+
+<h1 align="center">Ответ, выдаваемый в терминале</h1>
+<p align="center"><img
+    src="images/img2.png"
+    alt="cmd_answer"
+    /></p>
